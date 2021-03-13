@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.brajmandal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BrajMandal">
+        <activity android:name=".shri_thakur_rani"></activity>
+        <activity android:name=".gokulnathji" />
+        <activity android:name=".raman_reti" />
+        <activity android:name=".Nand_Bhavan_2" />
+        <activity android:name=".shri_thakur_rani_ghat" />
+        <activity android:name=".pavana_sarovara" />
+        <activity android:name=".Nandbaba" />
+        <activity android:name=".Chamunda_Devi_Temple" />
+        <activity android:name=".Kesava_Deo_Temple" />
+        <activity android:name=".Baba_Jaigurudev_Mandir" />
+        <activity android:name=".Gita_Mandir" />
+        <activity android:name=".Dwarkadhish" />
+        <activity android:name=".Shri_Krishna_Janmabhoomi" />
+        <activity android:name=".Sri_Chitra_Sakhee" />
+        <activity android:name=".Man_Ghar" />
+        <activity android:name=".Radha_Rani" />
+        <activity android:name=".kushal_bihari" />
+        <activity android:name=".Yashoda_Kund" />
+        <activity android:name=".Dharma_Kund" />
+        <activity android:name=".Kameshwar" />
+        <activity android:name=".Nand_Bhavan" />
+        <activity android:name=".Gopinathji" />
+        <activity android:name=".Madan_Mohan" />
+        <activity android:name=".kamyavan" />
+        <activity android:name=".Jateepura" />
+        <activity android:name=".Gokul" />
+        <activity android:name=".Nandgaon" />
+        <activity android:name=".Barsana" />
+        <activity android:name=".Vrindavan" />
+        <activity android:name=".Mathura" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

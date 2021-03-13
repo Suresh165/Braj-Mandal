@@ -1,0 +1,14 @@
+package com.example.brajmandal;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class shri_thakur_rani extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_shri_thakur_rani);
+    }
+}
